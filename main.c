@@ -307,4 +307,3 @@ printf("+-------------------+-------------------+\n");
     return 0;
 }
 
-//Ayran Bernabe, Anderson Bessi e Yuri Sousa Almeida
